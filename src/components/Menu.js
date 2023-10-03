@@ -4,16 +4,20 @@ const Menu = (props) => {
 
     let menuItemsArray = props.items; 
     console.log("Inside Menu");
-    console.log(menuItemsArray); 
+    // console.log(menuItemsArray); 
+    // menuItemsArray.map((menuItem) => {
+    //     console.log(menuItem.id + " " + menuItem.name);
+    // })
 
     return ( <>
-    <div className="container text-center my-5">
+        <div className="container text-center my-5">
             <h4 className="mb-4">Explore our Menu</h4>
-            {menuItemsArray.map((menuItem) => {
-                <MenuItem item ={menuItem}/>
-                console.log(menuItem); 
-            })}
+            <div className="row">
+                {menuItemsArray.map((menuItem) => 
+                    <MenuItem item={menuItem}/>)}
+            </div>
         </div>
+
     </> );
 }
  
