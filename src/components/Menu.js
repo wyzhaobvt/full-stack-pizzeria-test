@@ -14,7 +14,7 @@ const Menu = (props) => {
             <h4 className="mb-4">Explore our Menu</h4>
             <div className="row">
                 {menuItemsArray.map((menuItem) => 
-                    <MenuItem item={menuItem}/>)}
+                    <MenuItem key = {menuItem.id} item={menuItem}/>)}
             </div>
         </div>
 
