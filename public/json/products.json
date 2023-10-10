@@ -1,0 +1,337 @@
+[
+    {
+        "id": 1,
+        "name": "THE ORIGINAL BBQ CHICKEN PIZZA",
+        "price":"US$18.99",
+        "image": "THE ORIGINAL BBQ CHICKEN PIZZA.jpg",
+        "description":"Created here in 1985. Our legendary BBQ sauce, smoked Gouda, red onions, and fresh cilantro transform this original to iconic. Also available with Nueske's applewood smoked bacon or fresh pineapple.",
+        "tag":"pizzas"
+    },
+    {
+        "id": 2,
+        "name": "KOREAN BBQ STEAK PIZZA",
+        "price":"US$20.99",
+        "image": "KOREAN BBQ STEAK PIZZA.jpg",
+        "description":"Our Korean take on BBQ pizza. Charred steak, Korean BBQ sauce, Mozzarella cheese, scallions, shaved Napa cabbage, red onions, toasted sesame seeds and a sriracha-lime hot sauce.",
+        "tag":"pizzas"
+    },
+    {
+        "id": 3,
+        "name": "BLACK AND BLEU PIZZA",
+        "price":"US$20.99",
+        "image": "BLACK AND BLEU PIZZA.jpg",
+        "description":"Bleu cheese and steak are the ultimate classic pairing. We take our tender marinated grilled carne asada, Gorgonzola crumbles, garlic, olive oil, oven-roasted cherry tomatoes, and shaved red onions. Topped with cracked black pepper & parsley.",
+        "tag":"pizzas"
+    },
+    {
+        "id": 4,
+        "name": "THE WORKS",
+        "price":"US$19.99",
+        "image": "THE WORKS.jpg",
+        "description":"Spicy Italian sausage, rustic pepperoni, Cremini mushrooms, Mozzarella, red onions, green peppers, olives, and wild Greek oregano.",
+        "tag":"pizzas"
+    },
+    {
+        "id": 5,
+        "name": "PEPPERONI",
+        "price":"US$18.99",
+        "image": "PEPPERONI.jpg",
+        "description":"Rustic and spicy pepperoni with fresh Mozzarella and wild Greek oregano. Also available with white truffle oil.",
+        "tag":"pizzas"
+    },
+    {
+        "id": 6,
+        "name": "WILD MUSHROOM",
+        "price":"US$17.99",
+        "image": "WILD MUSHROOM.jpg",
+        "description":"Shaved Cremini mushrooms, extra virgin olive oil, fresh garlic, with Romano & Mozzarella, slivered scallions, and cracked black pepper. Also available with white truffle oil.",
+        "tag":"pizzas"
+    },
+    {
+        "id": 7,
+        "name": "THAI CHICKEN",
+        "price":"US$18.99",
+        "image": "THAI CHICKEN.jpg",
+        "description":"Thai peanut sauce and Mozzarella, hearth-baked then topped with crisp bean sprouts, julienned carrots, slivered scallions, and fresh cilantro.",
+        "tag":"pizzas"
+    },
+    {
+        "id": 8,
+        "name": "SPICY CHIPOTLE CHICKEN",
+        "price":"US$19.99",
+        "image": "SPICY CHIPOTLE CHICKEN.jpg",
+        "description":"Chipotle adobo sauce, shaved poblanos and Monterey Jack with housemade roasted corn & black bean salsa, fresh cilantro, and tangy lime crema.",
+        "tag":"pizzas"
+    },
+    {
+        "id": 9,
+        "name": "HAWAIIAN",
+        "price":"US$19.99",
+        "image": "HAWAIIAN.jpg",
+        "description":"Fresh pineapple, applewood smoked ham, and slivered scallions.",
+        "tag":"pizzas"
+    },
+    {
+        "id": 10,
+        "name": "ITALIAN CHOPPED",
+        "price":"US$18.99",
+        "image": "ITALIAN CHOPPED.jpg",
+        "description":"Roasted turkey breast, julienned salami, garbanzo beans, tomatoes, Mozzarella, and fresh basil served with mustard herb vinaigrette.",      
+        "tag":"salads"
+    },
+    {
+        "id": 11,
+        "name": "SPICY BUFFALO CHICKEN CHOPPED SALAD",
+        "price":"US$18.99",
+        "image": "SPICY BUFFALO CHICKEN CHOPPED SALAD.jpg",
+        "description":"An American classic now on a salad. Grilled chicken tossed in our signature buffalo sauce on top of crisp Romaine lettuce with Monterey Jack and creamy Gorgonzola cheese, carrots, celery, scallions, and cilantro all served with our herb ranch dressing.",      
+        "tag":"salads"
+    },
+    {
+        "id": 12,
+        "name": "THE ORIGINAL BBQ CHICKEN CHOPPED SALAD",
+        "price":"US$18.99",
+        "image": "THE ORIGINAL BBQ CHICKEN CHOPPED SALAD.jpg",
+        "description":"Black beans, sweet corn, jicama, fresh cilantro, basil, crispy corn tortilla strips, Monterey Jack, and our herb ranch. Topped with tomatoes and scallions. Also available with fresh avocado or grilled chili lime avocado.",      
+        "tag":"salads"
+    },
+    {
+        "id": 13,
+        "name":"CLASSIC CAESAR",
+        "price":"US$18.99",
+        "image": "CLASSIC CAESAR.jpg",
+        "description":"Crisp Romaine lettuce with shaved Parmesan and smashed garlic butter croutons. Also available with grilled chicken, grilled shrimp, or sautéed salmon.",      
+        "tag":"salads"
+    },
+    {
+        "id": 14,
+        "name":"THAI CRUNCH",
+        "price":"US$18.99",
+        "image": "THAI CRUNCH.jpg",
+        "description":"Crisp veggies and fresh cilantro with grilled chicken and the crunch of roasted peanuts & wonton strips. Served with our Thai peanut dressing and fresh lime. Also available with fresh avocado or grilled chili lime avocado.",      
+        "tag":"salads"
+    },
+
+    {
+        "id": 15,
+        "name":"CALIFORNIA COBB",
+        "price":"US$18.99",
+        "image": "CALIFORNIA COBB.jpg",
+        "description":"Nueske's applewood smoked bacon, avocado, chicken, tomatoes, chopped egg, fresh basil, and Gorgonzola. Served with herb ranch or bleu cheese dressing.",      
+        "tag":"salads"
+    },
+    {
+        "id": 15,
+        "name":"BANH MI POWER BOWL",
+        "price":"US$18.99",
+        "image": "BANH MI POWER BOWL.jpg",
+        "description":"Quinoa, spinach, fresh cilantro & mint topped with grilled chicken, red cabbage, fresh avocado, cucumber, carrot, bean sprouts, scallions, and sesame seeds. Served with chili-lime vinaigrette and serrano peppers.",
+        "tag":"salads"
+    },
+    {
+        "id": 16,
+        "name":"CHICKEN PICCATA",
+        "price":"US$21.99",
+        "image": "CHICKEN PICCATA.jpg",
+        "description":"With linguini fini, lemon, capers, in a lemon cream sauce.",
+        "tag":"pastas" 
+    },
+    {
+        "id": 17,
+        "name":"CHICKEN TEQUILA FETTUCCINE",
+        "price":"US$20.79",
+        "image": "CHICKEN TEQUILA FETTUCCINE.jpg",
+        "description":"Our creamy jalapeño lime sauce with spinach fettuccine, red onions, bell peppers, and fresh cilantro.",
+        "tag":"pastas" 
+    },
+    {
+        "id":18,
+        "name":"GARLIC CREAM FETTUCCINE",
+        "price":"US$17.99",
+        "image": "GARLIC CREAM FETTUCCINE.jpg",
+        "description":"With fresh Italian parsley. Also available with chicken, shrimp and/or sautéed Cremini mushrooms.",
+        "tag":"pastas" 
+    },
+    {
+        "id": 19,
+        "name":"BOLOGNESE SPAGHETTI",
+        "price":"US$18.99",
+        "image": "BOLOGNESE SPAGHETTI.jpg",
+        "description":"Our rich Bolognese sauce made with beef, pork, red wine, and fresh scallions. Also available with sautéed Cremini mushrooms.",
+        "tag":"pastas" 
+    },
+    {
+        "id": 20,
+        "name":"SHRIMP SCAMPI ZUCCHINI",
+        "price":"US$20.99",
+        "image": "SHRIMP SCAMPI ZUCCHINI.jpg",
+        "description":"Our lighter spin on a traditional recipe. Zucchini ribbons sautéed with lemon, garlic, and white wine. Tossed with fresh Italian parsley, Parmesan, and a touch of fettuccine.",
+        "tag":"pastas" 
+    },
+    {
+        "id": 21,
+        "name":"KUNG PAO SPAGHETTI",
+        "price":"US$17.99",
+        "image": "KUNG PAO SPAGHETTI.jpg",
+        "description":"With garlic, scallions, peanuts, and hot red chilies. Also available with chicken and/or shrimp.",
+        "tag":"pastas" 
+    },
+    {
+        "id": 22,
+        "name":"TOMATO BASIL SPAGHETTI",
+        "price":"US$16.99",
+        "image": "TOMATO BASIL SPAGHETTI.jpg",
+        "description":"Flame-kissed Italian tomatoes, garlic, and basil.",
+        "tag":"pastas" 
+    },
+    {
+        "id": 23,
+        "name":"JAMBALAYA LINGUINI FINI",
+        "price":"US$25.49",
+        "image": "JAMBALAYA LINGUINI FINI.jpg",
+        "description":"Blackened chicken and shrimp, Andouille sausage, and Tasso ham in our spicy Cajun sauce.",
+        "tag":"pastas" 
+    },
+    
+    {
+        "id": 24,
+        "name":"SPICY BUFFALO CHICKEN BITES",
+        "price":"US$11.99",
+        "image": "SPICY BUFFALO CHICKEN BITES.jpg",
+        "description":"Feeling like chicken instead of cauliflower? Try our crispy breaded chicken, lightly fried, then tossed in housemade sriracha buffalo sauce on top of ranch dressing. Topped with a salad of celery, cilantro, scallions, and Gorgonzola.",
+        "tag":"starters" 
+    },
+    
+    {
+        "id":25,
+        "name":"DYNAMITE SHRIMP",
+        "price":"US$12.99",
+        "image": "DYNAMITE SHRIMP.jpg",
+        "description":"Crispy shrimp tossed in signature sweet & spicy sriracha sauce. Topped with slivered scallions and toasted sesame seeds.",
+        "tag":"starters" 
+    },
+    
+    {
+        "id": 26,
+        "name":"MEXICAN STREET CORN",
+        "price":"US$6.99",
+        "image": "MEXICAN STREET CORN.jpg",
+        "description":"Roasted with smoked paprika, Feta and Parmesan. Served with fresh cilantro, lime, housemade ranchito sauce and grilled sourdough.",
+        "tag":"starters" 
+    },
+    
+    {
+        "id": 27,
+        "name":"SPICY BUFFALO CAULIFLOWER",
+        "price":"US$10.99",
+        "image": "SPICY BUFFALO CAULIFLOWER.jpg",
+        "description":"Fresh cauliflower florets buttermilk-battered and lightly fried, then tossed in housemade sriracha buffalo sauce on top of ranch dressing. Topped with a salad of celery, cilantro, scallions, and Gorgonzola.",
+        "tag":"starters" 
+    },
+    {
+        "id": 28,
+        "name":"SPINACH ARTICHOKE DIP",
+        "price":"US$13.99",
+        "image": "SPINACH ARTICHOKE DIP.jpg",
+        "description":"Served hot with housemade blue & white corn tortilla chips.",
+        "tag":"starters" 
+    },
+    {
+        "id": 29,
+        "name":"SZECHWAN CHICKEN DUMPLINGS",
+        "price":"US$11.99",
+        "image": "SZECHWAN CHICKEN DUMPLINGS.jpg",
+        "description":"Topped with fresh cilantro, toasted sesame seeds, and scallions. Served with our soy-ginger chili sauce.",
+        "tag":"starters" 
+    },
+    {
+        "id": 30,
+        "name":"BUTTER CAKE",
+        "price":"US$9.49",
+        "image": "BUTTER CAKE.jpg",
+        "description":"Trust us... just try it! Served warm with housemade whipped cream. Available with Vanilla Häagen Dazs.",
+        "tag":"desserts" 
+    },
+    {
+        "id": 31,
+        "name":"RED VELVET CAKE",
+        "price":"US$8.99",
+        "image": "RED VELVET CAKE.jpg",
+        "description":"Frosted with hand-whipped vanilla bean cream cheese and white chocolate curls. Also available with vanilla Häagen Dazs.",
+        "tag":"desserts" 
+    },
+    {
+        "id": 32,
+        "name":"KEY LIME PIE",
+        "price":"US$8.49",
+        "image": "KEY LIME PIE.jpg",
+        "description":"On a graham cracker crust with housemade whipped cream.",
+        "tag":"desserts" 
+    },
+    {
+        "id": 33,
+        "name":"BELGIAN CHOCOLATE SOUFFLÉ CAKE",
+        "price":"US$8.79",
+        "image": "BELGIAN CHOCOLATE SOUFFLÉ CAKE.jpg",
+        "description":"Warm chocolate cake served with triple-thick hot fudge, housemade whipped cream and cacao nibs. Available with Vanilla Häagen Dazs.",
+        "tag":"desserts" 
+    },
+    {
+        "id": 34,
+        "name":"TAKE AND BAKE KOREAN BBQ PIZZA",
+        "price":"US$20.99",
+        "image": "TAKE AND BAKE KOREAN BBQ PIZZA.jpg",
+        "description":"Our Korean take on BBQ pizza. Charred steak, Korean BBQ sauce, Mozzarella cheese, scallions, shaved Napa cabbage, red onions, toasted sesame seeds and a sriracha-lime hot sauce.",
+        "tag":"take-out" 
+    },
+    {
+        "id": 35,
+        "name":"TAKE AND BAKE BLACK AND BLEU PIZZA",
+        "price":"US$20.99",
+        "image": "TAKE AND BAKE BLACK AND BLEU PIZZA.jpg",
+        "description":"READY TO BAKE - Bleu cheese and steak are the ultimate classic pairing. We take our tender marinated grilled carne asada, Gorgonzola crumbles, garlic, olive oil, oven-roasted cherry tomatoes, and shaved red onions. Topped with cracked black pepper & parsley.",
+        "tag":"take-out" 
+    },
+    {
+        "id": 36,
+        "name":"TAKE AND BAKE THE ORIGINAL BBQ CHICKEN PIZZA",
+        "price":"US$18.99",
+        "image": "TAKE AND BAKE THE ORIGINAL BBQ CHICKEN PIZZA.jpg",
+        "description":"READY TO BAKE - Created here in 1985. Our legendary BBQ sauce, smoked Gouda, red onions and fresh cilantro transform this original to iconic. Also available with Nueske's applewood smoked bacon or fresh pineapple.",
+        "tag":"take-out" 
+    },
+    {
+        "id": 37,
+        "name":"TAKE AND BAKE CALIFORNIA CLUB",
+        "price":"US$19.99",
+        "image": "TAKE AND BAKE CALIFORNIA CLUB.jpg",
+        "description":"READY TO BAKE – Nueske’s applewood smoked bacon, grilled chicken, and Mozzarella, hearth-baked then topped with slices of avocado, fresh tomato, basil, and Romaine lettuce tossed in mayo. Top after baking.",
+        "tag":"take-out" 
+    },
+    {
+        "id": 38,
+        "name":"TAKE AND BAKE FIVE CHEESE + FRESH TOMATO",
+        "price":"US$17.99",
+        "image": "TAKE AND BAKE FIVE CHEESE + FRESH TOMATO.jpg",
+        "description":"READY TO BAKE - Fresh and traditional Mozzarella, Monterey Jack, smoked Gouda and Romano with tomato and fresh basil.",
+        "tag":"take-out" 
+    },
+    {
+        "id": 39,
+        "name":"TAKE AND BAKE HAWAIIAN",
+        "price":"US$19.99",
+        "image": "TAKE AND BAKE HAWAIIAN.jpg",
+        "description":"READY TO BAKE - Fresh pineapple, applewood smoked ham and slivered scallions.",
+        "tag":"take-out" 
+    },
+    {
+        "id": 40,
+        "name":"TAKE AND BAKE PEPPERONI",
+        "price":"US$18.99",
+        "image": "TAKE AND BAKE PEPPERONI.jpg",
+        "description":"READY TO BAKE - Rustic and spicy pepperoni with fresh Mozzarella and wild Greek oregano. Also available with white truffle oil.",
+        "tag":"take-out" 
+    }
+
+
+]
